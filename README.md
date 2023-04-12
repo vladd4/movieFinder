@@ -1,8 +1,5 @@
-
  # Simple MovieFinder service
-
-
-    <img src="https://img.shields.io/badge/Project%20Version-1.0.0-green" alt="Project Version">
+<img src="https://img.shields.io/badge/Project%20Version-1.0.0-green" alt="Project Version">
 
 
 ## About
